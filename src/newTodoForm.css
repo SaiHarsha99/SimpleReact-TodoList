@@ -21,7 +21,7 @@
 .NewTodoForm button {
   padding: 0 1.3rem;
   border: none;
-  background: #ff6666;
+  background: #ff4982;
   color: white;
   text-transform: uppercase;
   font-weight: bold;
@@ -32,7 +32,7 @@
 }
 
 .NewTodoForm button:hover {
-  background: #ff5e5e;
+  background: #f71c61;
 }
 
 .NewTodoForm input,
